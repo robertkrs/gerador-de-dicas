@@ -1,0 +1,10 @@
+async function advices() {
+  const conexao = await fetch("http://localhost:3000/advices");
+  const conexaoConvertida = await conexao.json();
+
+  return conexaoConvertida;
+}
+
+export const conectaAPI = {
+  advices,
+};

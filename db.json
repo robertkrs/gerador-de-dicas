@@ -1,0 +1,32 @@
+{
+  "advices": [
+    {
+      "id": 1,
+      "descricao": "Leave the first time he frightens you. Because it won't be the last."
+    },
+    {
+      "id": 2,
+      "descricao": "When you're cooking the recipe is only a reference. When you're baking the recipe is the work of the law."
+    },
+    {
+      "id": 3,
+      "descricao": "Never take criticism from someone you wouldn't take advice from."
+    },
+    {
+      "id": 4,
+      "descricao": "Never lie to your doctor."
+    },
+    {
+      "id": 5,
+      "descricao": "Use turn signals when driving."
+    },
+    {
+      "id": 6,
+      "descricao": "Never insult someone who is going to prepare your food or has access to your data."
+    },
+    {
+      "id": 7,
+      "descricao": "The time you enjoy wasting is not wasted time."
+    }
+  ]
+}
